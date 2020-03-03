@@ -1,5 +1,5 @@
 name: LazyLimbo
 version: ${project.version}
-main: net.snofox.minecraft.lazylimbo.Lazylimbo
+main: net.snofox.minecraft.lazylimbo.LazyLimbo
 api-version: 1.13
 authors: [SnoFox]
