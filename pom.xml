@@ -76,6 +76,7 @@
             <groupId>co.l-s.bukkit.plugins</groupId>
             <artifactId>LOALib</artifactId>
             <version>1.0.0-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>
